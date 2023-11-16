@@ -1,5 +1,14 @@
 # Sam 👁 am! 
-Welcome to my github page.
+* Welcome to my github page.
+
+## About me
+* Pronouns: (He/Him)
+* Sam is an excited learner. He enjoys coding, making music, and collaborating with a team. Sam's passion for coding is fueled by his desire to create meaningful products. In particular, Sam enjoys talking about music, audio and dsp.
+
+## My links
+* 🧑‍💼 linkedin: [https://www.linkedin.com/in/sedwardsmarsh/](https://www.linkedin.com/in/sedwardsmarsh/)
+* 🔊 soundcloud: [https://soundcloud.com/3dw4rrd5](https://soundcloud.com/3dw4rrd5)
+* 🏝 linktr.ee: [https://linktr.ee/samedwardsmarsh](https://linktr.ee/samedwardsmarsh)
 
 <!--
 **sedwardsmarsh/sedwardsmarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
