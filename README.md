@@ -2,7 +2,6 @@
 * Welcome to my github page.
 
 ## About me
-* Pronouns: (He/Him)
 * Sam is an excited learner. He enjoys coding, making music, and collaborating with a team. Sam's passion for coding is fueled by his desire to create meaningful products. In particular, Sam enjoys talking about music, audio and dsp.
 
 ## My links
