@@ -2,9 +2,10 @@
 * Welcome to my github page.
 
 ## About me
-* Sam is an excited learner. He enjoys coding, making music, and collaborating with a team. Sam's passion for coding is fueled by his desire to create meaningful products. In particular, Sam enjoys talking about music, audio and dsp.
+* I enjoy coding, making music, and collaborating with a team. I love talking about music, art and animals.
 
 ## My links
+* 📲 website: [https://www.samedwardsmarsh.com/](https://www.samedwardsmarsh.com/)
 * 🧑‍💼 linkedin: [https://www.linkedin.com/in/sedwardsmarsh/](https://www.linkedin.com/in/sedwardsmarsh/)
 * 🔊 soundcloud: [https://soundcloud.com/3dw4rrd5](https://soundcloud.com/3dw4rrd5)
 * 🏝 linktr.ee: [https://linktr.ee/samedwardsmarsh](https://linktr.ee/samedwardsmarsh)
