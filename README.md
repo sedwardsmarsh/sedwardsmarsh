@@ -4,11 +4,8 @@
 ## About me
 * I enjoy coding, making music, and collaborating with a team. I love talking about music, art and animals.
 
-## My links
+## Website
 * 📲 website: [https://www.samedwardsmarsh.com/](https://www.samedwardsmarsh.com/)
-* 🧑‍💼 linkedin: [https://www.linkedin.com/in/sedwardsmarsh/](https://www.linkedin.com/in/sedwardsmarsh/)
-* 🔊 soundcloud: [https://soundcloud.com/3dw4rrd5](https://soundcloud.com/3dw4rrd5)
-* 🏝 linktr.ee: [https://linktr.ee/samedwardsmarsh](https://linktr.ee/samedwardsmarsh)
 
 <!--
 **sedwardsmarsh/sedwardsmarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
